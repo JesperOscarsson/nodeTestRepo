@@ -1,7 +1,9 @@
 body {
-    background-color: green;
+    background-color: rgb(241, 237, 237);
+    color: rgb(51, 51, 51);
 }
 
-h1 {
-    color: red;
+.center {
+    margin: auto;
+    text-align: center;
 }
