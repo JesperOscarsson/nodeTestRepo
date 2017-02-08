@@ -1,9 +1,12 @@
 body {
     background-color: rgb(241, 237, 237);
     color: rgb(51, 51, 51);
+    font-family: "Helvetica Neue Helvetica", "Arial", "sans-serif";
 }
 
 .center {
     margin: auto;
     text-align: center;
+    width: 70%;
+    padding: 10%;
 }
